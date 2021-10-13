@@ -1,5 +1,5 @@
 # Spam-Ham-MNIST
-A Machine Learning classic starter project using Python libraries to cluster a data set of 'sms' messages into 'spam' and 'ham' using k-means.
+A Machine Learning classic starter project using Python libraries to cluster a data set of 'sms' messages into 'spam' and 'ham' using Naive Bayes.
 
 The dataset is a collection of 5,574 SMS meesages taken from UCI Machine Learning repository, need to be tagged as "spam" and "ham".
 

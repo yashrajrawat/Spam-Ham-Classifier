@@ -35,4 +35,4 @@ Confusion Matrix for Count Vectorizer Model tells us that we correctly predicted
 
 ## Check out the live demo: https://esc-yshrwt.herokuapp.com/
 
-![screenshots](esc.jpg)
+![screenshots](https://github.com/yashrajrawat/Spam-Ham-Classifier/blob/main/screenshots/esc.JPG)

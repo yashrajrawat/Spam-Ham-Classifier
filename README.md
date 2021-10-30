@@ -34,3 +34,5 @@ Precision: 1.0 / Recall: 0.852 / F1-Score: 0.92 / Accuracy: 0.98
 Confusion Matrix for Count Vectorizer Model tells us that we correctly predicted 966 hams and 127 spams.0 hams were incorrectly identified as spams and 22 spams were incorrectly predicted as hams.
 
 ## Check out the live demo: https://esc-yshrwt.herokuapp.com/
+
+![screenshots](esc.jpg)
